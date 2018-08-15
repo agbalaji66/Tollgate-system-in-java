@@ -1,0 +1,9 @@
+Hi,
+
+For using this fill You need Java JDK 
+
+Set java as Environment Variable 
+
+Click Run.bat To start
+
+Close Cmd to exit
